@@ -3,7 +3,7 @@ import React from 'react';
 import SectionCard from './SectionCard';
 
 const lastScores = [
-  { game: '1° jogo', team1: 'time', score1: 0, team2: 'time', score2: 0 },
+  { game: '1° jogo', team1: 'guarani', score1: 3, team2: 'guarani', score2: 3 },
   { game: '2° jogo', team1: 'time', score1: 0, team2: 'time', score2: 0 },
   { game: '3° jogo', team1: 'time', score1: 0, team2: 'time', score2: 0 },
   { game: '4° jogo', team1: 'time', score1: 0, team2: 'time', score2: 0 },
