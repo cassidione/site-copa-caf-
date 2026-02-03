@@ -3,7 +3,7 @@ import React from 'react';
 import SectionCard from './SectionCard';
 
 const nextMatches = [
-  { group: 'Grupo A', team1: 'time', team2: 'time', date: '07 de fev', time: '08:00H' },
+  { group: 'Grupo A', team1: 'flamengo', team2: 'guarani', date: '07 de fev', time: '08:00H' },
   { group: 'Grupo B', team1: 'time', team2: 'time', date: '07 de fev', time: '10:00H' },
   { group: 'Grupo C', team1: 'time', team2: 'time', date: '07 de fev', time: '13:00H' },
   { group: 'Grupo D', team1: 'time', team2: 'time', date: '07 de fev', time: '15:00H' },
