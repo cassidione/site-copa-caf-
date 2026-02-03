@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import Header from './components/Header';
 import Stats from './components/Stats';
 import NextMatches from './components/NextMatches';
@@ -30,6 +31,7 @@ const App: React.FC = () => {
         </main>
         <Footer />
       </div>
+      <SpeedInsights />
     </div>
   );
 };
